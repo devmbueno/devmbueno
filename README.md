@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">🚀 Gustavo | Estudante de Java!</h1>
 
-<!--
-**devmbueno/devmbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aprendendo programação de forma prática com foco em <strong>Java</strong>, com construção de projetos reais.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Sobre mim
+
+- 👨‍💻 14 anos | Programador em formação  
+- 📚 Estudando: Java & Spring Boot, lógica, Inglês (Avançado - Fluente), computação em geral e engenharia de software.
+- 🧠 Objetivo: Me tornar um desenvolvedor completo em Java.
+
+---
+
+#### 🔹 [Estudos em Java & SpringBoot](https://github.com/devmbueno/estudos-java)
+> Repositório com todos os códigos da minha jornada em Java!
+
+---
+
+
+## Contato
+
+- ✉️ Email: gust4vomb@icloud.com  
+- 💬 WhatsApp: [+55 62 99178-3366](https://wa.me/5562991783366)
+- 👾 Discord: gustavombueno
+---
+
+<p align="center">
+  <i>“Cada projeto é um passo em direção a minha formação :)”</i>
+</p>
