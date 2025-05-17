@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Gustavo | Estudante de Java!</h1>
+<h1 align="center">🚀 Gustavo | Estudante de Desenvolvimento de Software!</h1>
 
 <p align="center">
   Aprendendo programação de forma prática com foco em <strong>Java</strong>, com construção de projetos reais.
