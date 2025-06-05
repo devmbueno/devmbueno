@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Gustavo | Estudante de Desenvolvimento de Software</h1>
 
 <p align="center">
-  Aprendendo programação de forma prática com foco em <strong>Java</strong>, com construção de projetos reais.
+  Aprendendo programação de forma prática com foco em <strong>Java</strong> e <strong>C++</strong>, com construção de projetos reais.
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### 🎯 Sobre mim
 
 - 👨‍💻 14 anos | Programador em formação  
-- 📚 Estudando: Java & Spring Boot, lógica, Inglês (Avançado - Fluente), computação em geral e engenharia de software.
-- 🧠 Objetivo: Me tornar um desenvolvedor completo em Java.
+- 📚 Estudando: C++, SQL, Java & Spring Boot, Inglês (Avançado - Fluente), computação em geral e engenharia de software.
+- 🧠 Objetivo: Me tornar um desenvolvedor completo em backend.
 
 ---
 
