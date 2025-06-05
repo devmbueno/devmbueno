@@ -24,7 +24,7 @@
 
 - ✉️ Email: gust4vomb@icloud.com  
 - 💬 WhatsApp: [+55 62 99178-3366](https://wa.me/5562991783366)
-- 👾 Discord: gustavombueno
+- 👾 Discord: devmbueno
 ---
 
 <p align="center">
