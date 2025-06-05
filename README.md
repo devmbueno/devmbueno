@@ -15,7 +15,7 @@
 ---
 
 #### 🔹 [Estudos em Java & SpringBoot](https://github.com/devmbueno/estudos-java)
-> Repositório com todos os códigos da minha jornada em Java!
+> Repositório com todos os códigos da minha jornada em Java! (projetos e anotações)
 
 ---
 
